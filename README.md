@@ -21,7 +21,7 @@ The script automates the process of identifying vendors with potential inconsist
 
 ## Notes
 
-The GVL JSON file is not included in this repository because it is publicly available and updated regularly by IAB Europe.
+The GVL JSON file is not included in this repository because it is publicly available and updated regularly.
 
 It can be downloaded from:
 
